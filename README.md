@@ -1,4 +1,5 @@
 Summary of The Gaming Room Client and Software Requirements:
+
 The client, The Gaming Room, is a gaming lounge that wanted software to manage their
 customers and the games they play. They needed an application that could track the game 
 reservations, handle customer profiles, and generate reports on popular games. 
